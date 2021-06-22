@@ -17,7 +17,7 @@ This work is the topic of my Bachelor Thesis. For this reason, the memory is als
 ## Cite
 Thanks for reading! If you find it useful, feel free to use it. You can cite it as:
 ```
-@mastersthesis{opennmt,
+@mastersthesis{bueno2021bert,
   author    = {Ion Bueno},
   title     = {Inside a NLP multitasking neural network. BERT, one model to rule them all},
   school    = {University Carlos III of Madrid},
