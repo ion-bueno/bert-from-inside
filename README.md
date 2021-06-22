@@ -15,3 +15,6 @@ performance in test set. BERT implied the origin of pre-training language models
 which currently is the dominant trend in NLP area. In addition, it resulted in the solution
 for long training times and a huge amount of data in order to have a reliable model for a
 specific task.
+
+## test
+ola
