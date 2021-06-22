@@ -14,7 +14,7 @@ Obtained results respect both models are stored in **results** folder. They refl
 ## Memory
 This work is the topic of my Bachelor Thesis. For this reason, the memory is also published with more information and details in case it is useful to check it.
 
-## Citation
+## Cite
 Thanks for reading! If you find it useful, feel free to use it. You can cite it as:
 ```
 @mastersthesis{opennmt,
