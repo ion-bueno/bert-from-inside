@@ -16,5 +16,10 @@ which currently is the dominant trend in NLP area. In addition, it resulted in t
 for long training times and a huge amount of data in order to have a reliable model for a
 specific task.
 
-## test
-ola
+## Notebook
+
+## Models
+
+## Results
+
+## Memory
