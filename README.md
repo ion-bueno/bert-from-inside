@@ -6,13 +6,13 @@ The implementation has been carried out in a notebook with the option to run it 
 **Inside a NLP multitasking neural network. BERT, one model to rule them all.ipynb**. Used images are loaded from **images** folder.
 
 ## Implemented Models
-Two BERT models are implemented to solve _Sentiment Analysis_ and _Question Answering_ tasks. Their parameters as well as the training arguments are stored in their respective folders in order to be able to load them. Used tokenizers are also saved as well as training and test statistics. Everything is in **models** folder.
+Two BERT models are implemented to solve _Sentiment Analysis_ and _Question Answering_ tasks. Their parameters and training arguments are stored in their respective folders to be able to load them for future use. Used tokenizers are also saved as well as training and test statistics. Everything is into **models** folder.
 
 ## Results
 Obtained results respect both models are stored in **results** folder. There are examples of the final applications, predictions and results respect training and test.
 
 ## Memory
-This work is the topic of my Bachelor Thesis. For this reason, the memory is also published with more information and details in case it is useful to check it. The file is: **20210624_tfg_Ion_Bueno.pdf**
+This work is the topic of my Bachelor Thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **20210624_tfg_Ion_Bueno.pdf**
 
 ## Cite
 Thanks for reading! If you find it useful, feel free to use it. You can cite it as:
