@@ -11,8 +11,10 @@ Two BERT models are implemented to solve _Sentiment Analysis_ and _Question Answ
 ## Results
 Obtained results respect both models are stored in **results** folder. There are examples of the final applications, predictions and results respect training and test.
 
-## Memory
-This work is the topic of my Bachelor Thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **20210624_tfg_Ion_Bueno.pdf**
+## Memory and Presentation
+This work is the topic of my Bachelor Thesis. For this reason, the memory is also published with more information and details in case it could be useful to check it. The file is: **memory.pdf**.
+
+It is also available a short presentation about the project. The file is: **presentation.pdf**
 
 ## Cite
 Thanks for reading! If you find it useful, feel free to use it. You can cite it as:
