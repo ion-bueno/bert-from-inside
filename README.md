@@ -3,7 +3,7 @@ NLP is a well known topic inside AI field. A wide range of applications are coll
 
 ## Notebook
 The implementation has been carried out in a notebook with the option to run it from Colab. The file is: 
-**Inside a NLP multitasking neural network. BERT, one model to rule them all.ipynb**. Used images are loaded from **images** folder.
+**inside_bert.ipynb**. Used images are loaded from **images** folder.
 
 ## Implemented Models
 Two BERT models are implemented to solve _Sentiment Analysis_ and _Question Answering_ tasks. Their parameters and training arguments are stored in their respective folders to be able to load them for future use. Used tokenizers are also saved as well as training and test statistics. Everything is into **models** folder.
